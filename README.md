@@ -1,4 +1,4 @@
-# Welcome to Gtn: a containerized gc3pie app to run Tnseq pipeline
+# Welcome to Gtn: a containerized gc3pie app to run Tnseq (Transposon Sequencing) pipeline
 
 ## Requirements
 
